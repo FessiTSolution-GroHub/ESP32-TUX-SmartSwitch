@@ -36,7 +36,7 @@ _Remember this is a template so make it your own as per your needs._
 ![As of 2022-12-11](assets/3.wifi.png)
 ![As of 2022-12-11](assets/4.ota.png)
 
-## Web Installer : [https://tux.sukesh.me](https://tux.sukesh.me)
+## Installing on ESP32 Device
 > You only need a USB Cable and Browser to install and test on your device.  
 
 
@@ -175,8 +175,3 @@ message(STATUS "CMAKE_SOURCE_DIR = ${CMAKE_SOURCE_DIR}")
 message(STATUS "CMAKE_BINARY_DIR = ${CMAKE_BINARY_DIR}")
 message(STATUS "---------------------------------------")
 ```
-## 3D Printable enclosure (STL)  
-[FREE - WT32-SC01 - 3D enclosure on SketchFab website](https://sketchfab.com/3d-models/wt32-sc01-case-cfec05638de540b0acccff2091508500)  
-[FREE - WT32-SC01 - 3D enclosure on Cults3d by DUANEORTON](https://cults3d.com/en/3d-model/tool/desk-enclosure-for-wt32-sc01)  
-[PAID - WT32-SC01 - 3D enclosure on Cults3d by PRINTMINION](https://cults3d.com/en/design-collections/printminion/various-cases-for-wt32-sc01-by-wireless-tag)  
-[PAID - WT32-SC01 - 3D enclosure on Cults3d by TOMCASA](https://cults3d.com/en/3d-model/gadget/boite-pour-wt32-sc01-esp32-tft-tactile)
