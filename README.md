@@ -31,10 +31,10 @@ Thank you for considering supporting my work!
 
 _Remember this is a template so make it your own as per your needs._
 
-![As of 2022-12-11](assets/1.home.png)
-![As of 2022-12-11](assets/2.app.png)
-![As of 2022-12-11](assets/3.wifi.png)
-![As of 2022-12-11](assets/4.ota.png)
+![As of 2025-12-11](assets/1.home.png)
+![As of 2025-12-11](assets/2.app.png)
+![As of 2025-12-11](assets/3.wifi.png)
+![As of 2025-12-11](assets/4.ota.png)
 
 ## Installing on ESP32 Device
 > You only need a USB Cable and Browser to install and test on your device.  
